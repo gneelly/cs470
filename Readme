@@ -1,0 +1,47 @@
+Directions:
+Click on the blue Angular heading
+New questions can be added by clicking the new question button
+After the question is asked or clicked on, press the categories question at the top and refresh the page
+
+
+Static Website: http://aws-student-bucket-gn.s3-website-us-east-1.amazonaws.com
+
+Assignment:
+Garrin Neelly
+CS470
+SNHU
+8/21/2022
+• Experiences and Strengths: Explain how this course will help you in reaching your professional goals.
+
+o What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
+▪ This course helped with developing a cloud platform like AWS. How to integrate multiple cloud-development features like AWS Lambda and S3.
+
+o Describe your strengths as a software developer.
+▪ My strengths are in troubleshooting issues that I find along the way, or stepping back and breaking down the aspects 
+of the problem to determine where the issue is.
+
+o Identify the types of roles you are prepared to assume in a new job.
+▪ I am ready for development, QA and troubleshooting.
+
+• Planning for Growth: Synthesize the knowledge you have gathered about cloud services.
+o Identify various ways that microservices or serverless may be used to produce efficiencies of management and scale in your 
+web application in the future. Consider the following:
+
+▪ How would you handle scale and error handling?
+• Scale with serverless architecture can be handled with scalable database like DynamoDB and services like AWS Lambda.
+
+▪ How would you predict the cost?
+• The cost for these things must take into account the projected use of the services, as they are pay-per-use, 
+it matters how big the traffic will be.
+
+▪ What is more cost predictable, containers or serverless?
+
+o Explain several pros and cons that would be deciding factors in plans for expansion.
+▪ Plans for expansion depend on a couple of factors, the ability to migrate to a cloud structure. With the ability to migrate you 
+can have several iterations of the service running so it will stay up, as well cloud services can be more modular in their growth. 
+You lose flexibility in many aspects such as data, in large databases you don’t want to have everything process when called, it needs 
+to be set up before the call or else it will lag.
+
+o What roles do elasticity and pay-for-service play in decision making for planned future growth?
+▪ Elasticity is important for not wasting resources on something when it is not being used, this is great for large scale businesses 
+to save money. Pay-for-service is also great as it is much like the previous point, only when the service is used does the company have to pay.
